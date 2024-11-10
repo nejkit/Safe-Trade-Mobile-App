@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">localhost:8080</string>
+    <string name="registration_path">/api/v1/account/registration</string>
+    <string name="login_path">/api/v1/auth/login</string>
+    <string name="approve_by_email_path">/api/v1/auth/approve/email</string>
+    <string name="approve_by_push_path">/api/v1/auth/approve/push</string>
+</resources>
