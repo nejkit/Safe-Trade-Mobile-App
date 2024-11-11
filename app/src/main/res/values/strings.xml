@@ -3,4 +3,5 @@
     <string name="json_media_type">application/json</string>
     <string name="aid_header">X-AID</string>
     <string name="authorization_header">Authorization</string>
+    <string name="auth_frame_title_text">Войдите \nв учетную запись</string>
 </resources>

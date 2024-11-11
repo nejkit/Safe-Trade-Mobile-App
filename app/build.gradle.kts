@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "edu.pet.tradeapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "edu.pet.tradeapp"
